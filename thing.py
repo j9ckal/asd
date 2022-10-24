@@ -10,7 +10,6 @@ import asyncio
 import aiohttp
 import logging
 from discord.ext import tasks
-from imgur_downloader import ImgurDownloader
 
 ###spam setup#######
 floyd = ['https://cdn.discordapp.com/icons/864931992227020862/d150ce4390c325b4cb74b572cbf2d248.png?size=4096', 'https://media.discordapp.net/attachments/860978383063875637/861033971265437746/Avatar.png', 'https://media.discordapp.net/attachments/860978383063875637/861033971265437746/Avatar.png', 'https://media.discordapp.net/attachments/860978383063875637/861033971265437746/Avatar.png', 'https://media.discordapp.net/attachments/860978383063875637/861033971265437746/Avatar.png', 'https://media.discordapp.net/attachments/860978383063875637/861033971265437746/Avatar.png']
