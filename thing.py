@@ -27,7 +27,7 @@ nuke_wait_time = 0
 os.system("clear")
 
 import discord, random, aiohttp, asyncio
-from discord import Webhook, AsyncWebhookAdapter
+from discord import Webhook
 from discord.ext import commands
 from discord.ext.commands import *
 from colorama import Fore as C
